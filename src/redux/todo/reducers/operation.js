@@ -1,4 +1,3 @@
-/* eslint-disable array-callback-return */
 import { ADD_TODO, REMOVE_TODO, UPDATE_CHECKBOX, UPDATE_TODO } from "../actions";
 
 const initialState=[
